@@ -178,5 +178,12 @@ the below activities should be carried out in the Advanced Azure Arc plan
    3- lisitng potential additional Azure hybrid services for the customer identified from the "Hybrid cloud overview" session  
    4- agreeding on timelines and plan to deliver the agreed identified solutions   
    
+   ### 7- Azure Arc Solution launch pad
+   a reference that includs the customer challenges, reference architecture, and use cases
+   
+   
+   ### 8- Zero to hero with Azure Arc enabled servers
+   Engagement guide for first-time Azure Arc customers with hybrid servers
+   https://github.com/mysoultan/MEAArc/blob/main/Zero%20to%20hero%20with%20Azure%20Arc%20enabled%20servers.docx
 
 
