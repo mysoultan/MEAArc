@@ -180,11 +180,11 @@ the below activities should be carried out in the Advanced Azure Arc plan
    
    ### 7- Azure Arc Solution launch pad
    a reference that includs the customer challenges, reference architecture, and use cases
-   [Here](https://1drv.ms/p/s!AhLIpcHQbQ8sjCi8fYNxLKMzVeQZ?e=vpprOe) 
+   [here](https://1drv.ms/p/s!AhLIpcHQbQ8sjCi8fYNxLKMzVeQZ?e=vpprOe) 
    
    
    ### 8- Zero to hero with Azure Arc enabled servers
-   Engagement guide for first-time Azure Arc customers with hybrid servers -  
-   [here](https://github.com/mysoultan/MEAArc/blob/main/Zero%20to%20hero%20with%20Azure%20Arc%20enabled%20servers.docx)
+   Engagement guide for first-time Azure Arc customers with hybrid servers
+   [here](https://github.com/mysoultan/MEAArc/blob/main/azarc-pilot.md)
 
 
